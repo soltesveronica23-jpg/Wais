@@ -1,0 +1,2 @@
+# Wais
+Faq page
